@@ -1,1 +1,1 @@
-# ssfunding
+# Students Scholarship Project
